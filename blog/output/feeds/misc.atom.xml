@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>MoAdiB's Dump</title><link href="http://blog.moadib.net/" rel="alternate"></link><link href="http://blog.moadib.net/feeds/misc.atom.xml" rel="self"></link><id>http://blog.moadib.net/</id><updated>2014-05-02T23:28:00+02:00</updated><entry><title>Free To (not) Play</title><link href="http://blog.moadib.net/free-to-not-play.html" rel="alternate"></link><updated>2014-05-02T23:28:00+02:00</updated><author><name>MoAdiB</name></author><id>tag:blog.moadib.net,2014-05-02:free-to-not-play.html</id><summary type="html">
+        &lt;p&gt;As I tried to play Dungeon Keeper (mainly because it was a top app on the Google Play Store, I admit I didn't play the old version) I got really (really !!) annoyed by everithing taking so long (24h to clear a fucking block !!) so I searched for others opinion on the inernet.&lt;br /&gt;
+I found this Youtube Video which really hit the spot and is quite funny so I thought it may be a good share.&lt;/p&gt;
+        &lt;iframe width="560" height="315" src="//www.youtube.com/embed/GpdoBwezFVA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+    </summary><category term="Game Android Free2Play Suck Dungeon Keeper"></category></entry><entry><title>First post... Again...</title><link href="http://blog.moadib.net/first-post-again.html" rel="alternate"></link><updated>2014-05-02T22:28:00+02:00</updated><author><name>MoAdiB</name></author><id>tag:blog.moadib.net,2014-05-02:first-post-again.html</id><summary type="html">
+        &lt;p&gt;
+          Yes, I now... This is at least the 5th times I rebuild Le Petit Monde from scratch and I always let it down few months after... &lt;br /&gt;
+          But I kind of like it and as it's my very own playground I think I'll continue to play with it! :D &lt;br /&gt;
+          This time I'm using Pelican which is basically the same thing as Octopress (which I liked a lot) but written in Python. As I'm more fluent in this language than I'm in ruby I decided to switch. I'm not going to import old post from octopress as they are quite useless... &lt;br /&gt;
+          I may update this blog a few time but I won't make any promess as I'm too lazy to keep them.&lt;br /&gt;
+          Btw, I think the source for everything here will be on my github anytime soon so if you are interested keep a eye for it.
+        &lt;/p&gt;
+    </summary><category term="LePetitMonde"></category><category term="new"></category><category term="update"></category><category term="pelican"></category><category term="MoAdiB"></category><category term="Dump"></category></entry></feed>
