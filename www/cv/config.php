@@ -18,7 +18,7 @@ $social_media[] = array('LinkedIn', 'http://fr.linkedin.com/pub/martin-guibert/2
 $work_history[] = array('2014',
 						'Software Egineer',
 						'Keecker',
-						'I charge of Keecker "remote" Android application, I also work on webservices and on board Android applications for the Keecker.');
+						'I\'m in charge of Keecker "remote" Android application, I also work on webservices and on board Android applications for the Keecker.');
 
 $work_history[] = array('2012',
 						'Android Developer',
@@ -44,7 +44,7 @@ $education[] = array('Universit&eacute; de Technologie de Compi&egrave;gne', 'Ma
 $education[] = array('Lyc&eacute;e Technique Diderot', 'BTS (HDN / Associate Degree), Computer Sciences and Network');
 
 // Presumably you learned something in school and developed a few skills over the course of your lifetime.  Let's add them here.
-$skills[] = array('Android Developement', 'Development on Android devices using the Android SDK and JAVA. I have experience using a wide variety of API especially in comunication like Bluetooth and USB Accessory.');
+$skills[] = array('Android Developement', 'Development on Android devices using the Android SDK and JAVA. I have experience using a wide variety of API especially in communication like Bluetooth and USB Accessory.');
 $skills[] = array('Embedded Linux Developement', 'Development on embbeded system with Linux, Xenomai and Android. Using C/C++, Java and Urbi');
 $skills[] = array('Web Development', 'Webservices and Web oriented development using Python and PHP with Django, Piston and Symfony.');
 $skills[] = array('Object Oriented Development', 'Object oriented development using ADA, C++, Java and python.');

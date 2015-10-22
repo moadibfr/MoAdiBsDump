@@ -5,7 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = u'MoAdiB'
 SITENAME = u"MoAdiB's Dump"
 SITESUBTITLE = u"MoAdiB's Dump"
-SITEURL = 'http://blog.moadib.net'
+SITEURL = 'http://jonction.moadib.fr/blog/'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = u'en'

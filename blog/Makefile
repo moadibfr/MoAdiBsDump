@@ -8,14 +8,14 @@ OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
-FTP_HOST=jonction.moadib.net
+FTP_HOST=jonction.moadib.fr
 FTP_USER=moadib
-FTP_TARGET_DIR=/web/blog/
+FTP_TARGET_DIR=/volume1/web/blog/
 
-SSH_HOST=jonction.moadib.net
-SSH_PORT=22
+SSH_HOST=jonction.moadib.fr
+SSH_PORT=4242
 SSH_USER=moadib
-SSH_TARGET_DIR=/web/blog/
+SSH_TARGET_DIR=/volume1/web/blog/
 
 S3_BUCKET=my_s3_bucket
 
